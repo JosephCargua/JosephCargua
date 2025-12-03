@@ -32,6 +32,14 @@ josephcargua@frontend:~$ ls -la goals/
 
 ## Tech Stack
 
+### Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=fff&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff&labelColor=000000" alt="Angular"/>
+  <img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=fff&labelColor=000000" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=000000" alt="Flutter"/>
+</div>
+
 ### Backend
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=000000" alt="Java"/>
