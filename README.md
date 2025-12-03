@@ -2,19 +2,19 @@
 
 ```bash
 # whoami
-josephcargua@backend:~$ Joseph Cargua
+josephcargua@frontend:~$ Joseph Cargua
 # role
-josephcargua@backend:~$ Software Engineer | Backend Developer
+josephcargua@frontend:~$ Software Engineer | Frontend Developer
 # location
-josephcargua@backend:~$ Puyo, Pastaza - Ecuador
+josephcargua@frontend:~$ Puyo, Pastaza - Ecuador
 # education
-josephcargua@backend:~$ UTA FISEI
+josephcargua@frontend:~$ UTA FISEI
 ```
 
 ## About Me
 
 ```bash
-josephcargua@backend:~$ cat about.txt
+josephcargua@frontend:~$ cat about.txt
 I'm a passionate developer who enjoys building solid and scalable systems. 
 While I have strong experience in backend development, I'm especially drawn 
 to frontend work, where I focus on creating secure, high-performance, and 
@@ -24,7 +24,7 @@ well-crafted user experiences.
 ### My Goals
 
 ```bash
-josephcargua@backend:~$ ls -la goals/
+josephcargua@frontend:~$ ls -la goals/
 - Create scalable and efficient solutions, with a stronger focus on frontend development.
 - Engage in different types of projects, prioritizing continuous learning and improvement.
 - Keep up to date with new technologies to strengthen my frontend and overall development skills.
@@ -55,7 +55,7 @@ josephcargua@backend:~$ ls -la goals/
 ## Connect With Me
 
 ```bash
-josephcargua@backend:~$ ./connect.sh
+josephcargua@frontend:~$ ./connect.sh
 ```
 
 <div align="center">
@@ -83,5 +83,5 @@ josephcargua@backend:~$ ./connect.sh
 </div>
 
 ```bash
-josephcargua@backend:~$ exit
+josephcargua@frontend:~$ exit
 ```
